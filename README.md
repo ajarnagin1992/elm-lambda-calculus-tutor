@@ -1,4 +1,4 @@
-# Final project: Lambda Calculus Parse Tree Generator
+# Lambda Calculus Parse Tree Generator
 
 
 ## How to use:
